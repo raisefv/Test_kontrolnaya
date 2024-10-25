@@ -14,4 +14,5 @@ namespace kontrolnaya
         //dlina cicle
         //plosh kvadrat
     }// plosh kv 1
+    // perimtr kv 2
 }
