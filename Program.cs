@@ -11,5 +11,7 @@ namespace kontrolnaya
         static void Main(string[] args)
         {// koordinati
         }//dlina
+        //dlina cicle
+
     }
 }
