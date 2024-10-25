@@ -12,6 +12,6 @@ namespace kontrolnaya
         {// koordinati
         }//dlina
         //dlina cicle
-
+        //plosh kvadrat
     }
 }
